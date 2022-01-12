@@ -1,0 +1,19 @@
+{
+    "name": "appsly/contact",
+    "description": "Test package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Appsly\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Appsly Infotech",
+            "email": "info@appsly.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
